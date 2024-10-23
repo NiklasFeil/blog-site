@@ -1,0 +1,6 @@
+[book]
+authors = ["Niklas Feil"]
+title = "Niklas Feil's blog"
+language = "en"
+multilingual = false
+src = "src"
